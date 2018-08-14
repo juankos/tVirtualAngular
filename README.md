@@ -1,2 +1,0 @@
-# tiendaOnlineAngular2
-"# tVirtualAngular" 
